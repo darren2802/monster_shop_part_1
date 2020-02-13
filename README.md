@@ -23,7 +23,7 @@ Rails project
 * Josh O - @jtobannon
 
 ## Schema 
-<img width="954" alt="Screen Shot 2020-01-09 at 7 23 04 PM" src="https://user-images.githubusercontent.com/16090626/72127857-23c75680-332e-11ea-9530-73dfa3fae2b4.png">
+<iframe width="560" height="315" src='https://dbdiagram.io/embed/5e44a75d9e76504e0ef161b5'> </iframe>
 
 ## Setup
 
